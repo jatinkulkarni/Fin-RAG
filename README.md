@@ -89,9 +89,9 @@ ng serve
 ```
 Context: [retrieved paragraphs from PDF]
 
-Question: What are the risks mentioned?
+Question: What were Apple's major financial risks?
 
-Answer: ...
+Answer: changes in the value of the U.S. dollar relative to local currencies
 ```
 
 ---
